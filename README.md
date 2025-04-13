@@ -2,7 +2,6 @@
 
 HOW TO RUN PROJECT
 ##
-Frontend
 ```bash
 
 npm install
